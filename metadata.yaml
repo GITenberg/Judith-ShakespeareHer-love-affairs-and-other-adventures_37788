@@ -1,0 +1,31 @@
+_repo: Judith-ShakespeareHer-love-affairs-and-other-adventures_37788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, William
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '6136'
+    url: http://www.gutenberg.org/2009/agents/6136
+    wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
+description: ''
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Family -- Fiction'
+- !lcsh 'Stratford-upon-Avon (England) -- Fiction'
+- !lcsh 'Shakespeare, Judith, 1585-1662 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Dramatists -- Family relationships -- Fiction'
+title: 'Judith Shakespeare: Her love affairs and other adventures'
+url: http://www.gutenberg.org/ebooks/37788
